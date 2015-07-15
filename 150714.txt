@@ -1,0 +1,7 @@
+Create three transition matrices
+refer to http://people.csail.mit.edu/regina/my_papers/acl2005.ps
+1. English to English
+entity role transition matrix (4*4) (SOX-)*(SOX-) from t-1 sentence to t sentence. Entity independent (sum over all entity)
+2. English to Chinese
+entity role from t-1 english to t chinese. Find the same entity in t english and align to t chinese. 
+3. Chinese to Chinese
