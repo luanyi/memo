@@ -1,0 +1,6 @@
+git status
+git add
+git commit -m (comment)
+git checkout (id) #temporarily check previous version
+git reset --hard # hard change to prevous version
+git checkout master
